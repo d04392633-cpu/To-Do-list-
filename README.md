@@ -36,4 +36,4 @@
 ## ▶Запуск проекта
 
 ```bash
-go run main.go
+go run to-do.go
